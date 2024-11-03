@@ -38,4 +38,3 @@ candidates. This project will help to pace up resume screening process by sortin
 6) Run the scores.py Which returns Stud dataframe containing scores
 ****
 
-### For analysis on java jobs visit [this](https://github.com/akmaleache/JAVA-The-Industrail-Need) link
